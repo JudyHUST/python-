@@ -1,6 +1,5 @@
 # python-
 python课程作业
-附加题一
 一、解题思路
 1.运用python3的标准库Tkinter进行图形化编程，运用标准库csv进行csv文件的读写与修改，运用第三方库numpy进行数据的分析
 2.用csv文件存储学生信息，通过Tkinter的Button()函数和Entry()函数进行人机交互
